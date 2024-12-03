@@ -5,4 +5,4 @@ FROM php:8.0-apache
 COPY . /var/www/html/
 
 # Exponha a porta 80
-EXPOSE 80
+EXPOSE 8080
